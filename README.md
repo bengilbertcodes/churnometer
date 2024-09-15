@@ -20,6 +20,8 @@
 
 Your workspace is now ready to use. When you want to return to this project, you can find it in your Cloud IDE Dashboard. You should only create 1 workspace per project.
 
+Link to live app: [churnometer](https://churnometerappl-d023a5a1aca6.herokuapp.com/)
+
 ## Dataset Content
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/telecom-churn-dataset). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace.
